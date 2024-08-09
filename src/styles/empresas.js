@@ -7,6 +7,7 @@ export const Titulo = styled.article`
     text-align: center;
     padding: 0.25rem 0;
     border-bottom: 2px solid black;
+    margin-botton:10px;
 `
 export const CardEmpresa = styled.div`
   /* Basic Card Styling */

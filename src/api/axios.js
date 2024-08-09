@@ -1,6 +1,9 @@
 import axios from "axios"
 
-const BASE_URL = 'http://localhost:3500'
+export const BASE_URL = {
+    register: 'http://localhost:8080/auth/register',
+    user: 'http://localhost:8080/User'
+}
 
 export default axios.create({
     baseURL: BASE_URL

@@ -1,6 +1,5 @@
 import '../styles/App.css';
 import Layout from '../elements/Layout';
-import VideoSec from "../elements/VideoSec";
 import Contadores from '../elements/Contadores';
 import { BtnInfo } from './Empresa/Empresa';
 import { FiArrowRight } from "react-icons/fi";
